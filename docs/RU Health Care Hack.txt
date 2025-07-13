@@ -1,0 +1,52 @@
+RU Health Care Hack
+- Post-partum hemmorage correlation with EHR 
+- Miniaturization of Devices
+- Improved AI and natural language processing coding and documentation in real time when providers are charting, likely by facilitating use of the Dragon/Nuance tool and expansion to all providers
+- Heart failure re-admission - getting discrete EF out of echo reports - NLP/LLM.  Getting discrete data out of unstructured data reports
+-Decreasing inappropriate use of imaging studies on inpatients including identifying studies that would be more appropriately scheduled as outpatient studies, e.g. lumbar spine MRI without red flags
+- Eye Exams using a telemedicine platform and ai drive diagnostics. 
+
+
+
+
+
+left ventricle is related with heart failure
+left ventricle 16 segements of tissue, bulls eye of heart heart
+EF is less than 50 
+hfpef - heart failure
+
+hfref - heart failure
+myocardial infraction
+OpenCV heart sections 
+24 variables in the report 
+
+patient information
+doctor diagnosis
+echocardiogram
+limited and complete report
+complete report
+follows up are limited
+tools are relevant to agnostic to either report
+asce guidelnes echocardiogram -> way heart failure
+
+
+find synthetic or real data
+EMR data 
+IRB 
+Age limits are none 
+
+EMR NLP idea
+Barnabas - 
+
+
+
+
+
+Amazon Chime
+
+
+Pre-train model in Amazon SageMaker to, given guidelines on models 
+
+https://kdigo.org/wp-content/uploads/2022/10/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD.pdf
+
+Use document to pre-train on diabetes 
