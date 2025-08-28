@@ -225,9 +225,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Healthcare AI Team**
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- Email: [vkhandavalli@live.com]
+- LinkedIn: [https://www.linkedin.com/in/varun-khandavalli-480971135/]
+- GitHub: [https://github.com/gundamking]
 
 ---
 
